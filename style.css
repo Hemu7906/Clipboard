@@ -1,0 +1,349 @@
+
+/* Styling the Part 1 */
+
+.img1 {
+    width: 100%;
+    position: absolute;
+    top: 0px;
+}
+
+
+.img2 {
+    position: relative;
+    display: block;
+    margin: auto;
+    top: 100px;
+}
+
+.heading1 {
+    position: relative;
+    top: 120px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(54, 54, 54);
+    
+}
+
+.para1 {
+    position: relative;
+    top: 125px;
+    text-align: center;
+    color: rgb(181, 181, 181);
+}
+
+.btn1 {
+    position: relative;
+    top: 180px;
+    left: 480px;
+    background-color: #13d4a1;
+    height: 38px;
+    width: 150px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 1px 1px #b4f3e2;
+}
+
+.btn2 {
+    position: relative;
+    top: 180px;
+    left: 490px;
+    background-color: rgb(72, 72, 219);
+    height: 38px;
+    width: 150px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 1px 1px rgb(98, 98, 240);
+}
+
+/* Styling of Part 2 */
+
+.heading2 {
+    position: relative;
+    top: 300px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(54, 54, 54);
+}
+
+.para2 {
+    position: relative;
+    top: 310px;
+    text-align: center;
+    color: rgb(181, 181, 181);
+}
+
+.img3 {
+    position: relative;
+    top: 400px;
+    width: 600px;
+}
+
+.info {
+    position: relative;
+    top: -20px;
+    left: 700px;
+    text-align: left;
+}
+
+.subheading {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    color: rgb(54, 54, 54);
+}
+
+.subpara {
+    color: rgb(181, 181, 181);
+}
+
+/* Styling of Part 3 */
+
+.heading3 {
+    position: relative;
+    top: 200px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(54, 54, 54);
+}
+
+.para3 {
+    position: relative;
+    top: 210px;
+    text-align: center;
+    color: rgb(181, 181, 181);
+}
+
+.img4 {
+    position: relative;
+    top: 300px;
+    display: block;
+    margin: auto;
+}
+
+/* Stlying the Part 4 */
+
+.heading4 {
+    position: relative;
+    top: 300px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(54, 54, 54);
+}
+
+.para4 {
+    position: relative;
+    top: 305px;
+    text-align: center;
+    color: rgb(181, 181, 181);
+}
+
+.img5 {
+    position: relative;
+    display: block;
+    margin-left: 200px;
+    top: 410px;
+}
+
+.subheading1 {
+    position: relative;
+    top: 420px;
+    margin-left: -800px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(54, 54, 54);
+    font-size: medium;
+}
+
+.subpara1{
+    position: relative;
+    top: 425px;
+    margin-left: -800px;
+    text-align: center;
+    color: rgb(181, 181, 181);
+}
+
+.img6 {
+    position: relative;
+    display: block;
+    margin: auto;
+    top: 250px;
+}
+
+.subheading2 {
+    position: relative;
+    top: 260px;
+    text-align: center;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(54, 54, 54);
+}
+
+.subpara2 {
+    position: relative;
+    top: 265px;
+    text-align: center;
+    color: rgb(181, 181, 181);
+}
+
+.img7 {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: 200px;
+    top: 115px;
+}
+
+.subheading3 {
+    position: relative;
+    top: 125px;
+    margin-left: 800px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(54, 54, 54);
+    font-size: medium;   
+}
+
+.subpara3 {
+    position: relative;
+    top: 130px;
+    margin-left: 800px;
+    text-align: center;
+    color: rgb(181, 181, 181);
+}
+
+
+.img8 {
+    position: relative;
+    display: block;
+    margin-left: 50px;
+    top: 350px;
+}
+
+.img9 {
+    position: relative;
+    display: block;
+    margin-left: 300px;
+    top: 300px;
+}
+
+
+.img10 {
+    position: relative;
+    display: block;
+    margin: auto;
+    top: 250px;
+}
+
+.img11 {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: 300px;
+    top: 200px;
+}
+
+.img12 {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: 50px;
+    top: 160px;
+}
+
+/* Styling the Part 5 */
+
+.heading5 {
+    position: relative;
+    top: 300px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(54, 54, 54); 
+}
+
+.para5 {
+    position: relative;
+    top: 310px;
+    text-align: center;
+    color: rgb(181, 181, 181);
+}
+
+.btn3 {
+    position: relative;
+    top: 350px;
+    left: 480px;
+    background-color: #13d4a1;
+    height: 38px;
+    width: 150px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 1px 1px #b4f3e2;
+}
+
+.btn4 {
+    position: relative;
+    top: 350px;
+    left: 490px;
+    background-color: rgb(72, 72, 219);
+    height: 38px;
+    width: 150px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 1px 1px rgb(98, 98, 240);
+}
+
+/* Styling of footer  */
+
+.footer-container {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 3250px;
+    background-color: whitesmoke;
+} 
+
+.footer {
+    width: 80%;
+    padding: 20px 20px 20px 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.img13 {
+    position: relative;
+    left: -200px;
+    width: 50%;
+}
+
+.links {
+    /* color: rgb(181, 181, 181); */
+    color: gray;
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+}
+
+.footer-5 {
+    position: relative;
+    left: 200px;
+    top: 20px;
+}
+
+.img14 {
+    padding: 0px 10px 0px 10px;
+}
